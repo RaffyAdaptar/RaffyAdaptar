@@ -1,112 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=260&section=header&text=Raphael&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=just%20a%20random%20tech%20guy&descSize=20&descAlignY=62" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9e6&height=240&section=header&text=%E2%9C%A7%20Raphael%20%E2%9C%A7&fontSize=64&fontColor=7a5cff&animation=fadeIn&fontAlignY=36&desc=%E2%98%86%20just%20a%20random%20tech%20guy%20%E2%98%86&descSize=20&descColor=ff6ec7&descAlignY=58" alt="header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Raphael;%F0%9F%92%BB+I+love+building+random+stuff;%F0%9F%90%98+PHP+%2B+MySQL+web+apps;%F0%9F%8E%AE+Gamer+%26+tech+enthusiast;%F0%9F%9A%80+Always+learning+something+new" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- KEEP YOUR OWN BADGE LINES HERE: copy your edited Steam / Instagram / Facebook / Discord badges from your current README and paste them over these -->
-[![Steam](https://img.shields.io/badge/Steam-KyuuAki-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KyuuAki/)
-[![Instagram](https://img.shields.io/badge/Instagram-_lvkeloathr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lvkeloathr)
-[![Facebook](https://img.shields.io/badge/Facebook-Raphael-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME)
-[![Discord](https://img.shields.io/badge/Discord-Kyukaro-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2800&pause=900&color=FF6EC7&center=true&vCenter=true&width=600&lines=%E2%99%A1+welcome+to+my+page+%E2%99%A1;%E2%9C%A7+building+random+stuff+%E2%9C%A7;%E2%98%86+php+%2B+mysql+web+apps+%E2%98%86;%E2%99%AA+now+loading...+%E2%99%AA" alt="typing" />
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=RaffyAdaptar&label=Profile%20views&color=7c3aed&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/RaffyAdaptar?style=for-the-badge&logo=github&color=5865F2)
-![Repos](https://img.shields.io/github/repositories/RaffyAdaptar?style=for-the-badge&logo=github&color=2563eb)
+<!-- Keep your own badge links: copy your edited Facebook / Discord lines over these -->
+[![Steam](https://img.shields.io/badge/Steam-KyuuAki-ffc9e6?style=for-the-badge&logo=steam&logoColor=7a5cff&labelColor=ffffff)](https://steamcommunity.com/id/KyuuAki/)
+[![Instagram](https://img.shields.io/badge/Instagram-_lvkeloathr-ffc9e6?style=for-the-badge&logo=instagram&logoColor=7a5cff&labelColor=ffffff)](https://instagram.com/_lvkeloathr)
+[![Facebook](https://img.shields.io/badge/Facebook-Raphael-ffc9e6?style=for-the-badge&logo=facebook&logoColor=7a5cff&labelColor=ffffff)](https://facebook.com/YOUR_USERNAME)
+[![Discord](https://img.shields.io/badge/Discord-Kyukaro-ffc9e6?style=for-the-badge&logo=discord&logoColor=7a5cff&labelColor=ffffff)](https://discord.com/users/YOUR_ID)
+
+<br/>
+
+![views](https://komarev.com/ghpvc/?username=RaffyAdaptar&label=visitors&color=ff6ec7&labelColor=ffffff&style=for-the-badge)
+![followers](https://img.shields.io/github/followers/RaffyAdaptar?style=for-the-badge&logo=github&color=d08cff&labelColor=ffffff)
 
 </div>
 
----
-
-## ✨ About Me
-
-<table>
-<tr>
-<td>
-
-```yaml
-name:      Raphael
-username:  RaffyAdaptar
-pronouns:  he/him
-role:      Student developer
-focus:     PHP + MySQL web apps
-learning:  JavaScript, Git, cleaner backend code
-hobbies:   Gaming, tech, building things
-status:    🟢 Building something cool
-```
-
-</td>
-</tr>
-</table>
-
-> 💭 *"Build it first, make it pretty later."*
-
-## 🛠️ Tech Stack
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,git,github,vscode&theme=dark" alt="skills" />
+`⋆｡°✩ ━━━━━━━ ✧ ━━━━━━━ ✩°｡⋆`
 
 </div>
 
-## 🚀 Featured Project
+## ✧ about me ✧
+
+```
+┌──────────────────────────────────────┐
+│  ♡ name ........ Raphael (he/him)    │
+│  ♡ user ........ RaffyAdaptar        │
+│  ♡ role ........ student developer   │
+│  ♡ focus ....... PHP + MySQL         │
+│  ♡ learning .... JS, Git, backend    │
+│  ♡ status ...... ✧ online ✧          │
+└──────────────────────────────────────┘
+```
+
+> ☆ *"build it first, make it pretty later."*
+
+## ✧ my tools ✧
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,git,github,vscode&theme=light" alt="skills" />
+
+</div>
+
+## ✧ featured project ✧
 
 <div align="center">
 
 <a href="https://github.com/RaffyAdaptar/htaenrollment.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffyAdaptar&repo=htaenrollment.com&theme=tokyonight&hide_border=true" alt="htaenrollment.com" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffyAdaptar&repo=htaenrollment.com&bg_color=ffffff&border_color=e9b8ff&title_color=ff6ec7&text_color=5b5b8a&icon_color=7a5cff" alt="htaenrollment.com" />
 </a>
 
 </div>
 
-## 📊 Stats
+## ✧ stats ✧
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RaffyAdaptar&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffyAdaptar&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RaffyAdaptar&show_icons=true&bg_color=ffffff&border_color=e9b8ff&title_color=ff6ec7&text_color=5b5b8a&icon_color=7a5cff" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffyAdaptar&layout=compact&bg_color=ffffff&border_color=e9b8ff&title_color=ff6ec7&text_color=5b5b8a" alt="languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaffyAdaptar&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaffyAdaptar&background=FFFFFF&border=E9B8FF&ring=FF6EC7&fire=FF6EC7&currStreakNum=5B5B8A&sideNums=5B5B8A&currStreakLabel=FF6EC7&sideLabels=7A5CFF&dates=8888AA" alt="streak" />
 
 </div>
 
-<details>
-<summary><b>🏆 Click to see trophies</b></summary>
-<br/>
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RaffyAdaptar&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-
-</div>
-</details>
-
-## 🐍 Contribution Snake
+## ✧ now playing ✧
 
 <div align="center">
 
-<!-- Needs the snake workflow (snake.yml) to run once. It generates these images -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaffyAdaptar/RaffyAdaptar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaffyAdaptar/RaffyAdaptar/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/RaffyAdaptar/RaffyAdaptar/output/github-snake-dark.svg" />
-</picture>
+<!-- Replace YOUR_UID with the one from spotify-github-profile -->
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&show_offline=true&background_color=ffffff&bar_color=ff6ec7&bar_color_cover=false" alt="Spotify now playing" />
 
 </div>
 
-## 💬 Let's Connect
+## ✧ contribution snake ✧
 
 <div align="center">
 
-Got a project idea or just want to chat? Message me on Discord or Instagram. 🤝
+<img alt="snake" src="https://raw.githubusercontent.com/RaffyAdaptar/RaffyAdaptar/output/github-snake.svg" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%E2%9C%A8;Don't+forget+to+leave+a+%E2%AD%90" alt="thanks" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
+<div align="center">
+
+`⋆｡°✩ ━━━━━━━ ✧ ━━━━━━━ ✩°｡⋆`
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=4000&pause=1000&color=7A5CFF&center=true&vCenter=true&width=500&lines=thanks+for+stopping+by+%E2%99%A1;leave+a+%E2%AD%90+if+you+liked+it" alt="thanks" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9e6&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
