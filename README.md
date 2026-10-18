@@ -26,7 +26,7 @@
 - 🔭 Currently working on **htaenrollment.com** (PHP + MySQL)
 - 🌱 Learning: JavaScript, Git workflow, and cleaner backend code
 - 💬 Ask me about: PHP, MySQL, web basics
-- ⚡ Fun fact: _add something about yourself here_
+- ⚡ Fun fact: _I love playing chess (1700)_
 
 ## 🛠️ Tech Stack
 
