@@ -16,7 +16,6 @@
 
 <br/>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaffyAdaptar&label=VIEWS&color=ffb6d9&style=flat-square" alt="views" />
   <img src="https://img.shields.io/github/followers/RaffyAdaptar?style=flat-square&logo=github&label=FOLLOWERS&labelColor=1a1a2e&color=ffb6d9" alt="followers" />
 </p>
 
