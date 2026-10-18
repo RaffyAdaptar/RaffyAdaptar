@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33628026/README.md)
+
 <div align="center">
 
 <!-- Banner (generated, no image upload needed). Change the color/text freely -->
