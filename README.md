@@ -80,7 +80,6 @@
 <div align="center">
 
 <!-- Replace YOUR_UID with the one from spotify-github-profile -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31osyc7sltzjpiaeuctbvt5uybtq&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
