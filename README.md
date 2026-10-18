@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9e6&height=240&section=header&text=%E2%9C%A7%20Raphael%20%E2%9C%A7&fontSize=64&fontColor=7a5cff&animation=fadeIn&fontAlignY=36&desc=%E2%98%86%20just%20a%20random%20tech%20guy%20%E2%98%86&descSize=20&descColor=ff6ec7&descAlignY=58" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ad5,50:c084fc,100:7aa2ff&height=150&section=header" alt="header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&duration=3500&pause=1500&color=FF6EC7&center=true&vCenter=true&width=700&height=80&lines=RAPHAEL;just+a+random+tech+guy" alt="name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2800&pause=900&color=FF6EC7&center=true&vCenter=true&width=600&lines=%E2%99%A1+welcome+to+my+page+%E2%99%A1;%E2%9C%A7+building+random+stuff+%E2%9C%A7;%E2%98%86+php+%2B+mysql+web+apps+%E2%98%86;%E2%99%AA+now+loading...+%E2%99%AA" alt="typing" />
 
@@ -96,6 +98,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=4000&pause=1000&color=7A5CFF&center=true&vCenter=true&width=500&lines=thanks+for+stopping+by+%E2%99%A1;leave+a+%E2%AD%90+if+you+liked+it" alt="thanks" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9e6&height=110&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2ff,50:c084fc,100:ff9ad5&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
