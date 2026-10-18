@@ -13,8 +13,8 @@
 <!-- Social badges: replace the placeholder values -->
 [![Steam](https://img.shields.io/badge/Steam-KyuuAki-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KyuuAki/)
 [![Instagram](https://img.shields.io/badge/Instagram-_lvkeloathr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lvkeloathr)
-[![Facebook](https://img.shields.io/badge/Facebook-YourName-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lvkeloathr)
-[![Discord](https://img.shields.io/badge/Discord-YourTag-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![Facebook](https://img.shields.io/badge/Facebook-Raphael-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lvkeloathr)
+[![Discord](https://img.shields.io/badge/Discord-kyukaro-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 </div>
 
