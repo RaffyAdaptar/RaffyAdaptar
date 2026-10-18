@@ -86,7 +86,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31osyc7sltzjpiaeuctbvt5uybtq&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light">
   </a>
 </p>
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&show_offline=true&background_color=ffffff&bar_color=ff6ec7&bar_color_cover=false" alt="Spotify now playing" />
+
 
 </div>
 
