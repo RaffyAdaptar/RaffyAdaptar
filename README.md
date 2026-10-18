@@ -15,9 +15,10 @@
 [![Discord](https://img.shields.io/badge/Discord-Kyukaro-ffc9e6?style=for-the-badge&logo=discord&logoColor=7a5cff&labelColor=ffffff)](https://discord.com/users/YOUR_ID)
 
 <br/>
-
-![views](https://komarev.com/ghpvc/?username=RaffyAdaptar&label=visitors&color=ff6ec7&labelColor=ffffff&style=for-the-badge)
-![followers](https://img.shields.io/github/followers/RaffyAdaptar?style=for-the-badge&logo=github&color=d08cff&labelColor=ffffff)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RaffyAdaptar&label=VIEWS&color=ffb6d9&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/RaffyAdaptar?style=flat-square&logo=github&label=FOLLOWERS&labelColor=1a1a2e&color=ffb6d9" alt="followers" />
+</p>
 
 </div>
 
