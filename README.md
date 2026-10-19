@@ -34,7 +34,7 @@
 ```
 ┌──────────────────────────────────────┐
 │  ♡ name ........ Raphael (he/him)    │
-│  ♡ user ........ RaffyAdaptar        │
+│  ♡ user ........ kyukaro             │
 │  ♡ role ........ student developer   │
 │  ♡ focus ....... PHP + MySQL         │
 │  ♡ learning .... JS, Git, backend    │
@@ -42,7 +42,7 @@
 └──────────────────────────────────────┘
 ```
 
-> ☆ *"build it first, make it pretty later."*
+> ☆ *"</33333333333333333."*
 
 ## ✧ my tools ✧
 
